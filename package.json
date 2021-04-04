@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "holiday.css": "^0.9.5",
+    "postcss-cli": "^8.3.1",
+    "postcss-import": "^14.0.1",
+    "uncss": "^0.17.3"
+  }
+}

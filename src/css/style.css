@@ -1,0 +1,6 @@
+
+@import 'holiday.css';
+
+:root {
+    --max-body-width: 64rem;
+}
